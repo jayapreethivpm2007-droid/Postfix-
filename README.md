@@ -1,0 +1,2 @@
+# Postfix-
+Data structure practical 
